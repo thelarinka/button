@@ -16,8 +16,8 @@
 * "Red" : Kırmızı renk rolünün ID'si
 * "Pink" : Pembe renk rolünün ID'si 
 * "Orange" : Turuncu renk rolünün ID'si
-* "Yellow" : Sarı rolünün ID'si
-* "Green" : Yeşil rolünün ID'si
+* "Yellow" : Sarı renk rolünün ID'si
+* "Green" : Yeşil renk rolünün ID'si
 
 3- Gerekli yerleri doldurduktan sonra modulleri yukle.bat dosyasını açıp modüllerin yüklenmesini bekliyoruz.
 
